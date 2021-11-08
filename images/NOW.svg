@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 35" width="120" height="35">
+	<title>00</title>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 33px;fill: #ffffff;font-weight: 800;font-family: "Avenir" } 
+	</style>
+	<g id="00">
+		<text id="NOW" style="transform: matrix(1.418,0,0,1.408,-3.491,33.592)" >
+			<tspan x="0" y="0" class="txt0" dx="0" >N</tspan><tspan  y="0" class="txt0" dx="0 0 0" >OW
+</tspan>
+		</text>
+	</g>
+</svg>
